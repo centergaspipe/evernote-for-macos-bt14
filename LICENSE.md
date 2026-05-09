@@ -1,4 +1,4 @@
-
+Enhance Evernote for macOS with premium Evernote for macOS Plugin | tags + cloud backup, the #1 plugin. Includes tags and cloud backup for a smoother experience.
 
 
 
